@@ -30,10 +30,9 @@
     <keywords>cordova,statusbar</keywords>
 
     <engines>
-            <engine name="cordova" version=">=3.0.0" />
+            <engine name="cordova" version=">=3.1.0" />
     </engines>
 
-	<preference name="phonegap-version" value="3.5.0" />
 
     <js-module src="www/statusbar.js" name="statusbar">
         <clobbers target="window.StatusBar" />
