@@ -30,7 +30,7 @@
     <keywords>cordova,statusbar</keywords>
 
     <engines>
-            <engine name="cordova" version=">=3.1.0" />
+            <engine name="cordova" version=">=3.5.0" />
     </engines>
 
 
